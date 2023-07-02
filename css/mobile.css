@@ -1,0 +1,30 @@
+@media (max-width: 600px) {
+
+    .card {
+       flex-direction: column; 
+       width: 34.2rem;
+       height: 61rem;
+    }
+
+    .product-image, .product-info {
+        width: 34.2rem;
+    }
+
+    .product-image {
+        height: 24rem;
+        border-radius: 0;
+        border-top-left-radius: 1rem;
+        border-top-right-radius: 1rem;
+        background-image: url(/images/image-product-mobile.jpg);
+        background-size: contain;
+    }
+
+    .product-info {
+        height: 37.2rem;
+        padding: 2.3rem;
+    }
+
+    .product-description {
+        line-height: 1.6;
+    }
+}

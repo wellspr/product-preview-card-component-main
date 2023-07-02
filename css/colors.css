@@ -1,0 +1,19 @@
+/*## Colors
+
+### Primary*/
+
+:root {
+
+    /*- Dark cyan:*/
+    --dc: #3c8067;
+    /*- Cream:*/
+    --c: #f2ebe3; 
+    
+    /*### Neutral;
+    /*- Very dark blue: */
+    --vdb: #1c232b;
+    /*- Dark grayish blue: */
+    --dgb: #6c7289;
+    /*- White: */
+    --w: #ffffff;
+}
